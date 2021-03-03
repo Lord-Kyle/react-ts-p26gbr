@@ -70,5 +70,4 @@ function ModalComponentService() {
     </Modal>
   );
 }
-
 export default ModalComponentService;
